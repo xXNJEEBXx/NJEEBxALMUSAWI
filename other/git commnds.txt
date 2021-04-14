@@ -1,0 +1,19 @@
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/xXNJEEBXx/xXNJEEBXx-NJEEBxALMUSAWI.git
+git push -u origin main
+git rm -r --cached folder name
+
+
+
+
+
+
+
+
+git remote add origin https://github.com/xXNJEEBXx/test.git
+git branch -M main
+git push -u origin main
